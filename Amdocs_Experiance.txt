@@ -1,0 +1,40 @@
+so it was a campuse placement drive in which there were an mcq round with 2 coding questions after clearing that test had interview with the technical requriters of amdocs
+
+first technical interview is held in room L17
+interview start with the basic introduction 
+1 from where are you
+2 basic introduction about you
+3 discussion on project
+4 oracal db
+5 sql query(write a query to print the employee name whose name start with letter a)
+6 Finalize keyword in java
+7 Difference between sql and pl/sql
+8 difficulties while doing projects all three projects(please give realistic ans tell whatever you have feel while doing your project )
+9 from where you got the idea of your projects
+10 storage classes in c
+11 inheritance
+12 type of inheritance
+13 function overloading
+14 multithreading
+15 what is thread.
+16 what is cooperative and independent processes
+17 Unix basic commands
+18 if you wants to run a program after every 10 second then how wil you do it on Linux as well as on window
+19 cpu scheduling algorithms
+20 scheduler in window
+21 what is Unix is there any difference in Linux and unix
+22 ddl and dml diffrance
+23 3 coding questions were there based on array 
+
+
+Hr Round
+Tell me about yourself
+what is your Strength
+what is your Wakness
+Why amdocs
+What you think about Amdocs
+what are the Achievement you have can you please share with us
+Difference between Manager and Team leader
+Family background
+Relocation policies
+Any questions(Please try to ask some questions related to your job profile , related to onboarding process , individual career progress in the orgnaization )
